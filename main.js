@@ -1,7 +1,1 @@
-alert('hello1')
-alert('hello2')
-alert('hello3')
-alert('bye1')
-alert('bye2')
-alert('bye3')
-alert('bye4')
+alert('m1')
